@@ -1,0 +1,10 @@
+C:\Мои документы\MyProject\MathCame\MathGame\bin\Debug\MathGame.exe.config
+C:\Мои документы\MyProject\MathCame\MathGame\bin\Debug\MathGame.exe
+C:\Мои документы\MyProject\MathCame\MathGame\bin\Debug\MathGame.pdb
+C:\Мои документы\MyProject\MathCame\MathGame\obj\Debug\MathGame.csproj.AssemblyReference.cache
+C:\Мои документы\MyProject\MathCame\MathGame\obj\Debug\MathGame.Form1.resources
+C:\Мои документы\MyProject\MathCame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+C:\Мои документы\MyProject\MathCame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.cache
+C:\Мои документы\MyProject\MathCame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+C:\Мои документы\MyProject\MathCame\MathGame\obj\Debug\MathGame.exe
+C:\Мои документы\MyProject\MathCame\MathGame\obj\Debug\MathGame.pdb
